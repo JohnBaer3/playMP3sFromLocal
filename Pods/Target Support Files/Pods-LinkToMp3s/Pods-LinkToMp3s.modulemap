@@ -1,0 +1,6 @@
+framework module Pods_LinkToMp3s {
+  umbrella header "Pods-LinkToMp3s-umbrella.h"
+
+  export *
+  module * { export * }
+}
